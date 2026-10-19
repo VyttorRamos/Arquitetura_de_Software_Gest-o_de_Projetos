@@ -37,5 +37,5 @@ Site interativo e bilíngue (**Português / Inglês**) desenvolvido em **HTML5, 
 ## Integrantes da Equipe
 
 - **Luis Otávio de Deus dos Santos**
-- **Vyttor Gabriel Ramos Camillo**
+- **Vyttor Gabriel Ramos Camillo** — [https://vyttorramos.github.io/Arquitetura_de_Software_Gest-o_de_Projetos/](https://vyttorramos.github.io/Arquitetura_de_Software_Gest-o_de_Projetos/)
 - **Yasmin Siqueira Lobo** — [https://yasminlobo.github.io/arquitetura-gestao-projetos/](https://yasminlobo.github.io/arquitetura-gestao-projetos/)
